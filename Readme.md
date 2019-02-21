@@ -1,7 +1,7 @@
 # Личный проект «Киноман» [![Build status][travis-image]][travis-url]
 
 * Студент: [Иса Стамкулов](https://up.htmlacademy.ru/ecmascript/8/user/373127).
-* Наставник: `Неизвестно`.
+* Наставник: `Вольный слушатель`.
 
 ---
 
