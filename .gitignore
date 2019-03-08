@@ -7,9 +7,13 @@ Thumbs.db
 *.sublime*
 .vscode
 
-# Вспомогательные файлы
+# Вспомогательные файлы и директории
 *.log*
 node_modules/
 
 # Папка с собранными файлами проекта
 build/
+
+# Генерируемый JS-bundle
+public/bundle.js
+public/bundle.js.map
