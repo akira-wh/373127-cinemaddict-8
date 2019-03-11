@@ -16,6 +16,24 @@
   --font-size-bigger: 20px;
 }
 
+/*
+* Дополнительная стилизация от фронтенд-разработчика.
+*/
+.films-list__container {
+  margin-right: -15px !important;
+}
+
+.film-card {
+  flex-basis: 228px !important;
+}
+
+button {
+  cursor: pointer !important;
+}
+/*
+* Конец блока дополнительной стилизации.
+*/
+
 
 html {
   background: #121213 url('../images/background.png') no-repeat 50% 0;
