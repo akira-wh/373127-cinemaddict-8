@@ -45,7 +45,7 @@ const MOVIES_MAIN_CONTAINER = moviesContainers[0];
 const TOP_RATED_MOVIES_CONTAINER = moviesContainers[1];
 
 /**
- * DOM-контейнер наиболее комментируемых фильмов.
+ * DOM-контейнер наиболее обсуждаемых фильмов.
  * @constant
  * @type {node}
  */
@@ -116,7 +116,7 @@ class Application {
   }
 
   /**
-   * Рендер карт с 2-мя наиболее комментируемыми фильмами.
+   * Рендер карт с 2-мя наиболее обсуждаемыми фильмами.
    *
    * @method _renderMostCommentedMovies
    * @param {array} moviesData — данные фильмов
