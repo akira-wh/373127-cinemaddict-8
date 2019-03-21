@@ -16,7 +16,6 @@
   --font-size-bigger: 20px;
 }
 
-
 html {
   background: #121213 url('../images/background.png') no-repeat 50% 0;
   display: flex;
@@ -59,6 +58,9 @@ a:hover {
   opacity: 0.7;
 }
 
+button {
+  cursor: pointer;
+}
 
 .header {
   align-items: center;
@@ -174,6 +176,7 @@ a:hover {
   align-items: baseline;
   display: flex;
   flex-wrap: wrap;
+  margin-right: -10px;
   padding-bottom: var(--vertical-gap);
 }
 
@@ -182,7 +185,7 @@ a:hover {
   flex-basis: 230px;
   flex-shrink: 0;
   flex-grow: 0;
-  margin-right: 10px;
+  margin-right: 12px;
   padding-top: calc(340px + 50px + 10px);
   position: relative;
 }
